@@ -1,0 +1,25 @@
+{
+  "name": "monospacecharwidth",
+  "version": "1.0.0",
+  "description": "Calculate Character Width in monospace fonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanlinsun/monospacecharwidth.git"
+  },
+  "keywords": [
+    "monospace",
+    "width",
+    "font",
+    "character-length"
+  ],
+  "author": "Yanlin Sun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanlinsun/monospacecharwidth/issues"
+  },
+  "homepage": "https://github.com/yanlinsun/monospacecharwidth#readme"
+}
