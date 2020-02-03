@@ -4,7 +4,8 @@
   "description": "Calculate Character Width in monospace fonts",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha",
+    "test-debug": "mocha --inspect-brk"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/yanlinsun/monospacecharwidth/issues"
   },
-  "homepage": "https://github.com/yanlinsun/monospacecharwidth#readme"
+  "homepage": "https://github.com/yanlinsun/monospacecharwidth#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
+  }
 }
